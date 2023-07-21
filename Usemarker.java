@@ -11,8 +11,8 @@ public class Usemarker {
 		Marker marker1 = new Marker();
 		marker1.brand = "oppo";
 		marker1.colour = "blue";
-		marker1.price = 100;
-		marker1.shape = "oval";
+		marker1.price = 200;
+		marker1.shape = "round";
 
 		Marker marker2 = new Marker();
 		marker2.brand = "redmi";
